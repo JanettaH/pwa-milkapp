@@ -1,0 +1,8 @@
+{
+  "name": "Milk App",
+  "short_name": "MilkApp",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "My PWA application"
+}
